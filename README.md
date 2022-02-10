@@ -2,7 +2,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/m4n50n/todo_list_api_with_python_flask/main/screenshot_preview.png)
 
-✏ *Creating an REST API using the ***Python Flask framework*** using Python and Pipenv that exposes 3 endpoints to the internet: **GET**, **POST** and **DELETE***.
+✏ *Creating an REST API with the ***Python Flask framework*** using Python and Pipenv that exposes 3 endpoints to the internet: **GET**, **POST** and **DELETE***.
 
 ## Instructions 📄
 
