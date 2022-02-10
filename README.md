@@ -1,4 +1,4 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Todo List API in Python Flask
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) Todo List API with Python Flask
 
 ![screenshot](https://raw.githubusercontent.com/m4n50n/todo_list_api_with_python_flask/main/screenshot_preview.png)
 
